@@ -10,7 +10,7 @@ It replicates a real-world business scenario and shows how data can be transform
 
 Below is a preview of the Power BI Sales & Financial Dashboard:
 
-![Sales Dashboard](./screenshots/sales_dashboard.png)
+![Sales Dashboard](./screenshots/sales_dashboard.PNG)
 
 
 # Key Features
