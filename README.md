@@ -6,6 +6,13 @@ Power BI dashboard for sales & financial performance analysis.
 This project demonstrates an end-to-end Power BI dashboard built for analysing sales, revenue, costs, and profitability metrics.
 It replicates a real-world business scenario and shows how data can be transformed into actionable insights.
 
+# Dashboard Preview
+
+Below is a preview of the Power BI Sales & Financial Dashboard:
+
+![Sales Dashboard](./screenshots/sales_dashboard.png)
+
+
 # Key Features
 
 * Sales revenue tracking
